@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "window-shopper/Controller/MainVC.swift"
-            timestampString = "568708145.565767"
+            timestampString = "568878458.504951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
             landmarkName = "MainVC"
             landmarkType = "3">
          </BreakpointContent>
